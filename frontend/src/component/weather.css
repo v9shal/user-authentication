@@ -1,0 +1,37 @@
+/* weather.css */
+
+.weather {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 300px;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .COntainer-search {
+    margin-bottom: 20px;
+  }
+  
+  #search {
+    padding: 8px;
+    margin-right: 5px;
+  }
+  
+  button {
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  .temp,
+  .city,
+  .humidity,
+  .windspeed {
+    margin: 10px 0;
+    font-size: 20px;
+  }
+  
+  /* Feel free to customize these styles based on your design preferences */
+  

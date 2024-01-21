@@ -1,0 +1,73 @@
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.form {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.input {
+  flex: 1;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.button {
+  padding: 8px 12px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.no-movie-found {
+  color: #ff0000;
+  margin-bottom: 20px;
+}
+
+.infoContainer {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.infoItem {
+  margin-bottom: 10px;
+}
+
+.bookmarks-container {
+  margin-top: 20px;
+}
+
+.bookmarks-container h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.bookmarks-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.bookmarks-container li {
+  margin-bottom: 5px;
+}
+
+.link {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.button {
+  margin-right: 10px;
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
